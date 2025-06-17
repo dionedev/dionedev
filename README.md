@@ -40,7 +40,6 @@ Aqui você encontrará os projetos nos quais venho trabalhando e estudos de tecn
 
 - LinkedIn: [Dione Dev](https://linkedin.com/in/dionedev)
 - Instagram: [Dione Santos](https://instagram.com/dione.r.s)
-- Email: [dionedev@gmail.com](dionedev@gmail.com)
 
 ---
 
